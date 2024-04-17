@@ -14,7 +14,7 @@ namespace ConsoleCRUD
         public int Id { get; set; }
 
         [Required]
-        public string Nome { get; set; }
+        public required string Nome { get; set; }
     }
 
     //Banco de dados.
