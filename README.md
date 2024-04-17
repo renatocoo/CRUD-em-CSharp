@@ -19,8 +19,8 @@ Conhecimento básico em C# e manipulação de bancos de dados com SQLite.
 
 ## Tecnologias Utilizadas
 
-C#
-SQLite
+- C#
+- SQLite
 
 ## Autor
 
